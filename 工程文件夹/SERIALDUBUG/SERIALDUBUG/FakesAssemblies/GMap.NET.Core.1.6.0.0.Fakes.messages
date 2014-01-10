@@ -1,0 +1,154 @@
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.Stuff 生成存根: 类型对 exported or assembly(GMap.NET.Core.1.6.0.0.Fakes) 不可见。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.RenderMode 生成存根: 类型是一个值类型。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.CacheQueueItem 生成存根: 类型是一个值类型。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.CacheUsage 生成存根: 类型是一个值类型。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.OpenSeaMapHybridProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.NearMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.LithuaniaHybridNewMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MouseWheelZoomType 生成存根: 类型是一个值类型。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.GMapProviders 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.EmptyProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.EmptyWebProxy 生成存根: 类型已密封。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.OpenStreetMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.OviTerrainMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.LithuaniaHybridMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.DirectionsProvider 生成存根: 类型对 exported or assembly(GMap.NET.Core.1.6.0.0.Fakes) 不可见。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.CloudMadeMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.ArcGIS_World_Topo_MapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.BingSatelliteMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.GPoint 生成存根: 类型是一个值类型。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.PositionChanged 生成存根: 类型已密封。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.TileLoadComplete 生成存根: 类型已密封。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.TileLoadStart 生成存根: 类型已密封。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapDrag 生成存根: 类型已密封。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapZoomChanged 生成存根: 类型已密封。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapTypeChanged 生成存根: 类型已密封。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.EmptyTileError 生成存根: 类型已密封。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.OviSatelliteMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.LithuaniaOrtoFotoMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.BingHybridMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.BingMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.Tile 生成存根: 类型是一个值类型。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.AccessMode 生成存根: 类型是一个值类型。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.LanguageType 生成存根: 类型是一个值类型。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.YandexSatelliteMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.CzechSatelliteMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.CzechHistoryMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.YahooSatelliteMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.GoogleChinaSatelliteMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.ArcGIS_World_Shaded_Relief_MapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.GoogleTerrainMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.OviHybridMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.TurkeyMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.ArcGIS_World_Street_MapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.ArcGIS_StreetMap_World_2D_MapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Analytics.PrivacySettings 生成存根: 类型是一个值类型。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Analytics.SchemaVersionValue 生成存根: 类型是一个值类型。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Analytics.PublishCompletedEventHandler 生成存根: 类型已密封。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.SizeLatLng 生成存根: 类型是一个值类型。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.PointLatLng 生成存根: 类型是一个值类型。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.OpenStreetOsmProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.ArcGIS_Topo_US_2D_MapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.ArcGIS_Imagery_World_2D_MapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.TileMatrix 生成存根: 类型对 exported or assembly(GMap.NET.Core.1.6.0.0.Fakes) 不可见。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.YahooMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.MapBenderWMSProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.GSize 生成存根: 类型是一个值类型。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.Core 生成存根: 类型对 exported or assembly(GMap.NET.Core.1.6.0.0.Fakes) 不可见。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.GRect 生成存根: 类型是一个值类型。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.LoadTask 生成存根: 类型是一个值类型。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.ArcGIS_World_Terrain_Base_MapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.ArcGIS_ShadedRelief_World_2D_MapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.BingMapOldProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Extensions 生成存根: 类型已密封。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.YahooHybridMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.GoogleMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.GoogleHybridMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.YandexMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Properties.Resources 生成存根: 类型对 exported or assembly(GMap.NET.Core.1.6.0.0.Fakes) 不可见。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.GeoCoderStatusCode 生成存根: 类型是一个值类型。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.DirectionsStatusCode 生成存根: 类型是一个值类型。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.FastReaderWriterLock 生成存根: 类型已密封。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.CacheProviders.SQLitePureImageCache 生成存根: 类型对 exported or assembly(GMap.NET.Core.1.6.0.0.Fakes) 不可见。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.Lithuania3dMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.CzechMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.fixType 生成存根: 类型是一个值类型。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.KiberTileCache 生成存根: 类型对 exported or assembly(GMap.NET.Core.1.6.0.0.Fakes) 不可见。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.GoogleSatelliteMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.GoogleKoreaHybridMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.RectLatLng 生成存根: 类型是一个值类型。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.Cache 生成存根: 类型对 exported or assembly(GMap.NET.Core.1.6.0.0.Fakes) 不可见。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.CacheType 生成存根: 类型是一个值类型。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Projections.MercatorProjectionYandex 生成存根: 类型对 exported or assembly(GMap.NET.Core.1.6.0.0.Fakes) 不可见。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.OpenCycleMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.GoogleKoreaSatelliteMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.CzechHybridMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.GoogleChinaHybridMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.NearHybridMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.LithuaniaMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.LithuaniaOrtoFotoNewMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.LatviaMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.GoogleChinaTerrainMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.GoogleKoreaMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.OviMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.SpainMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.CzechTuristMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 ProcessHacker.Common.Threading.FastResourceLock 生成存根: 类型已密封。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 ProcessHacker.Common.Threading.NativeMethods 生成存根: 类型对 exported or assembly(GMap.NET.Core.1.6.0.0.Fakes) 不可见。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.RawTile 生成存根: 类型是一个值类型。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.GDirectionStep 生成存根: 类型是一个值类型。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.GoogleChinaMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.NearSatelliteMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.ArcGIS_World_Physical_MapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.GpsLog 生成存根: 类型是一个值类型。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.FixQuality 生成存根: 类型是一个值类型。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.FixType 生成存根: 类型是一个值类型。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.FixSelection 生成存根: 类型是一个值类型。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.OpenStreetMapSurferProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.OpenStreetMapSurferTerrainProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.YandexHybridMapProvider 生成存根: 类型没有系列可见的构造函数。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.Stuff 生成填充码: 类型对 exported or assembly(GMap.NET.Core.1.6.0.0.Fakes) 不可见。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.RenderMode 生成填充码: 类型是一个枚举。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.CacheQueueItem 生成填充码: 类型对 exported or assembly(GMap.NET.Core.1.6.0.0.Fakes) 不可见。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.CacheUsage 生成填充码: 类型是一个枚举。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.GeocodingProvider 生成填充码: 类型是一个接口。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.RoutingProvider 生成填充码: 类型是一个接口。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MouseWheelZoomType 生成填充码: 类型是一个枚举。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Singleton`1+SingletonCreator 生成填充码: 类型对 exported or assembly(GMap.NET.Core.1.6.0.0.Fakes) 不可见。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapProviders.EmptyWebProxy 生成填充码: 类型对 exported or assembly(GMap.NET.Core.1.6.0.0.Fakes) 不可见。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.DirectionsProvider 生成填充码: 类型是一个接口。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.PositionChanged 生成填充码: 类型是一个委托。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.TileLoadComplete 生成填充码: 类型是一个委托。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.TileLoadStart 生成填充码: 类型是一个委托。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapDrag 生成填充码: 类型是一个委托。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapZoomChanged 生成填充码: 类型是一个委托。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.MapTypeChanged 生成填充码: 类型是一个委托。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.EmptyTileError 生成填充码: 类型是一个委托。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.AccessMode 生成填充码: 类型是一个枚举。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.LanguageType 生成填充码: 类型是一个枚举。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.GMaps+StringWriterExt 生成填充码: 类型对 exported or assembly(GMap.NET.Core.1.6.0.0.Fakes) 不可见。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Analytics.PrivacySettings 生成填充码: 类型是一个枚举。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Analytics.SchemaVersionValue 生成填充码: 类型是一个枚举。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Analytics.PublishCompletedEventHandler 生成填充码: 类型是一个委托。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.TileMatrix 生成填充码: 类型对 exported or assembly(GMap.NET.Core.1.6.0.0.Fakes) 不可见。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.Core 生成填充码: 类型对 exported or assembly(GMap.NET.Core.1.6.0.0.Fakes) 不可见。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.LoadTask 生成填充码: 类型对 exported or assembly(GMap.NET.Core.1.6.0.0.Fakes) 不可见。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 正在跳过 method !!0 GMap.NET.Extensions.GetStruct(System.Runtime.Serialization.SerializationInfo info, System.String key, !!0 defaultValue)，method !!0 GMap.NET.Extensions.GetStruct(System.Runtime.Serialization.SerializationInfo info, System.String key, !!0 defaultValue) unstubbable: 不受支持的约束类型
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Properties.Resources 生成填充码: 类型对 exported or assembly(GMap.NET.Core.1.6.0.0.Fakes) 不可见。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.GeoCoderStatusCode 生成填充码: 类型是一个枚举。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.DirectionsStatusCode 生成填充码: 类型是一个枚举。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.FastReaderWriterLock+NativeMethods 生成填充码: 类型对 exported or assembly(GMap.NET.Core.1.6.0.0.Fakes) 不可见。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.PureImageCache 生成填充码: 类型是一个接口。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.CacheProviders.SQLitePureImageCache 生成填充码: 类型对 exported or assembly(GMap.NET.Core.1.6.0.0.Fakes) 不可见。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.fixType 生成填充码: 类型是一个枚举。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.KiberTileCache 生成填充码: 类型对 exported or assembly(GMap.NET.Core.1.6.0.0.Fakes) 不可见。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.Cache 生成填充码: 类型对 exported or assembly(GMap.NET.Core.1.6.0.0.Fakes) 不可见。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.CacheType 生成填充码: 类型是一个枚举。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Projections.MercatorProjectionYandex 生成填充码: 类型对 exported or assembly(GMap.NET.Core.1.6.0.0.Fakes) 不可见。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 ProcessHacker.Common.Threading.FastResourceLock 生成填充码: 类型对 exported or assembly(GMap.NET.Core.1.6.0.0.Fakes) 不可见。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 ProcessHacker.Common.Threading.NativeMethods 生成填充码: 类型对 exported or assembly(GMap.NET.Core.1.6.0.0.Fakes) 不可见。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Interface 生成填充码: 类型是一个接口。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.Internals.RawTile 生成填充码: 类型对 exported or assembly(GMap.NET.Core.1.6.0.0.Fakes) 不可见。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.FixQuality 生成填充码: 类型是一个枚举。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.FixType 生成填充码: 类型是一个枚举。
+J:\SERIALDUBUG\SERIALDUBUG\Fakes\GMap.NET.Core.fakes : warning : 无法为 GMap.NET.FixSelection 生成填充码: 类型是一个枚举。

@@ -1,0 +1,39 @@
+C:\Users\Administrator\documents\visual studio 2012\Projects\SERIALDUBUG\SERIALDUBUG\bin\Debug\SERIALDUBUG.exe
+C:\Users\Administrator\documents\visual studio 2012\Projects\SERIALDUBUG\SERIALDUBUG\bin\Debug\SERIALDUBUG.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\SERIALDUBUG\SERIALDUBUG\bin\Debug\SERIALDUBUG.exe.config
+C:\Users\Administrator\documents\visual studio 2012\Projects\SERIALDUBUG\SERIALDUBUG\obj\Debug\SERIALDUBUG.Form1.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\SERIALDUBUG\SERIALDUBUG\obj\Debug\SERIALDUBUG.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\SERIALDUBUG\SERIALDUBUG\obj\Debug\SERIALDUBUG.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2012\Projects\SERIALDUBUG\SERIALDUBUG\obj\Debug\SERIALDUBUG.exe
+C:\Users\Administrator\documents\visual studio 2012\Projects\SERIALDUBUG\SERIALDUBUG\obj\Debug\SERIALDUBUG.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\SERIALDUBUG\SERIALDUBUG\obj\Debug\SERIALDUBUG.csprojResolveAssemblyReference.cache
+J:\SERIALDUBUG\SERIALDUBUG\bin\Debug\SERIALDUBUG.exe.config
+J:\SERIALDUBUG\SERIALDUBUG\obj\Debug\SERIALDUBUG.exe
+J:\SERIALDUBUG\SERIALDUBUG\obj\Debug\SERIALDUBUG.pdb
+J:\SERIALDUBUG\SERIALDUBUG\bin\Debug\SERIALDUBUG.exe
+J:\SERIALDUBUG\SERIALDUBUG\bin\Debug\SERIALDUBUG.pdb
+J:\SERIALDUBUG\SERIALDUBUG\obj\Debug\SERIALDUBUG.csprojResolveAssemblyReference.cache
+J:\SERIALDUBUG\SERIALDUBUG\obj\Debug\SERIALDUBUG.Form1.resources
+J:\SERIALDUBUG\SERIALDUBUG\obj\Debug\SERIALDUBUG.Properties.Resources.resources
+J:\SERIALDUBUG\SERIALDUBUG\obj\Debug\SERIALDUBUG.csproj.GenerateResource.Cache
+J:\SERIALDUBUG\SERIALDUBUG\bin\Debug\ZedGraph.dll
+J:\SERIALDUBUG\SERIALDUBUG\bin\Debug\ZedGraph.xml
+J:\SERIALDUBUG\SERIALDUBUG\bin\Debug\de\ZedGraph.resources.dll
+J:\SERIALDUBUG\SERIALDUBUG\bin\Debug\es\ZedGraph.resources.dll
+J:\SERIALDUBUG\SERIALDUBUG\bin\Debug\fr\ZedGraph.resources.dll
+J:\SERIALDUBUG\SERIALDUBUG\bin\Debug\hu\ZedGraph.resources.dll
+J:\SERIALDUBUG\SERIALDUBUG\bin\Debug\it\ZedGraph.resources.dll
+J:\SERIALDUBUG\SERIALDUBUG\bin\Debug\ja\ZedGraph.resources.dll
+J:\SERIALDUBUG\SERIALDUBUG\bin\Debug\pt\ZedGraph.resources.dll
+J:\SERIALDUBUG\SERIALDUBUG\bin\Debug\ru\ZedGraph.resources.dll
+J:\SERIALDUBUG\SERIALDUBUG\bin\Debug\sk\ZedGraph.resources.dll
+J:\SERIALDUBUG\SERIALDUBUG\bin\Debug\sv\ZedGraph.resources.dll
+J:\SERIALDUBUG\SERIALDUBUG\bin\Debug\tr\ZedGraph.resources.dll
+J:\SERIALDUBUG\SERIALDUBUG\bin\Debug\zh-cn\ZedGraph.resources.dll
+J:\SERIALDUBUG\SERIALDUBUG\bin\Debug\zh-tw\ZedGraph.resources.dll
+J:\SERIALDUBUG\SERIALDUBUG\bin\Debug\GMap.NET.Core.dll
+J:\SERIALDUBUG\SERIALDUBUG\bin\Debug\GMap.NET.WindowsForms.dll
+J:\SERIALDUBUG\SERIALDUBUG\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+J:\SERIALDUBUG\SERIALDUBUG\bin\Debug\GMap.NET.Core.xml
+J:\SERIALDUBUG\SERIALDUBUG\bin\Debug\GMap.NET.WindowsForms.xml
+J:\SERIALDUBUG\SERIALDUBUG\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
